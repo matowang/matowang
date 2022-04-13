@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on a JavaScript Unit Testing tool
 
-✒️ I'm currently learning UI/UX
+✒️ I'm currently learning design concepts
 
 🧐 Checkout my portfolio at [matowang.com](http://matowang.com/)
 
