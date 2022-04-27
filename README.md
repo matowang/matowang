@@ -1,6 +1,6 @@
 # Hi there!🐳
 
-🔭 I’m currently working on a JavaScript Unit Testing tool
+🔭 I’m currently working on a Web App using GTP-3
 
 ✒️ I'm currently learning design concepts
 
