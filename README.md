@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on a Web App using GTP-3
 
-✒️ I'm currently learning design concepts
+✒️ I'm currently learning TypeScript
 
 🧐 Checkout my portfolio at [matowang.com](http://matowang.com/)
 
